@@ -1,0 +1,7 @@
+
+*.xml
+*.iml
+
+zhihu/__pycache__/
+zhihu/spiders/__pycache__/
+scrapy.cfg
